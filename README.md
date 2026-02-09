@@ -150,4 +150,6 @@ The experiments are conducted using the **NSL-KDD dataset**, a refined version o
 ---
 
 ## Repository Structure
-
+├── anomaly_detection_gmm.ipynb # GMM-based anomaly detection & voting strategy
+├── intrusion_detection_classical_ml.ipynb # Classical ML models for intrusion detection
+└── README.md
